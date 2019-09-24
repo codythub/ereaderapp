@@ -1,2 +1,2 @@
 # ereaderapp
-This ereader allows you selective night and day mode
+This ereader allows you selective night mode using a toggle button
