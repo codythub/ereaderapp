@@ -1317,10 +1317,12 @@ Exeunt
 			$('body').addClass('night');
 			$('div').addClass('night');
 			$('li').addClass('night');
-			
+
 		});
 		$('.js-go-day').click(function(){
-			alert('Go to day mode - replace me with the CSS changing code!');
+			$('body').removeClass('night');
+			$('div').removeClass('night');
+			$('li').removeClass('night');
 		});
 
 
